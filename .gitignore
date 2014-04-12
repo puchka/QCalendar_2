@@ -1,0 +1,5 @@
+Calendrier.pro.user*
+debug/*.o
+debug/**/*.dll
+debug/moc*
+*.exe
