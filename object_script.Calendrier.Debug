@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\Table.o
+./debug\Case.o
+./debug\Bouton.o
+./debug\Fenetre.o
+./debug\Label.o
+./debug\Organiseur.o
+./debug\TableEditor.o
+./debug\Moon.o
+./debug\Clock.o
+./debug\moc_Table.o
+./debug\moc_Case.o
+./debug\moc_TableEditor.o
+./debug\moc_Clock.o
+);

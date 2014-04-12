@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\Table.o
+./release\Case.o
+./release\Bouton.o
+./release\Fenetre.o
+./release\Label.o
+./release\Organiseur.o
+./release\TableEditor.o
+./release\Moon.o
+./release\Clock.o
+./release\moc_Table.o
+./release\moc_Case.o
+./release\moc_TableEditor.o
+./release\moc_Clock.o
+);
