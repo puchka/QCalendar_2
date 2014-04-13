@@ -22,9 +22,15 @@ Installer
 The *debug/build.iss* is an InnoSetup ISS script.
 The generated installer will be stored in *debug/Output*
 
+Binaries
+---------
+
+Binaries can be found in https://sourceforge.net/projects/qcalendar2/files/
+
 Authors
 --------
 
 * NOMENJANAHARY Fenohasina
 * RABENARIVO Andrianambinina Marius
 * RAMAHASINDRY Jeanny Sami
+* RAMBELOSON Andriatomefisoa
